@@ -34,6 +34,10 @@ https://github.com/user-attachments/assets/26409997-c3f8-447c-9073-646013be30be
 ### AI Filter on "lofi" Query
 https://github.com/user-attachments/assets/acc508a3-013d-41b5-871f-68826ebb9288
 
+## System Architecture
+<img width="611" height="495" alt="FocusTube System Architecture" src="https://github.com/user-attachments/assets/0c5261ca-fad8-4063-a83d-b76a8f816a49" />
+
+
 ---
 
 ## 🚀 Quick Start
